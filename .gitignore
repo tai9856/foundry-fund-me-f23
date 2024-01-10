@@ -9,6 +9,12 @@ out/
 
 # Docs
 docs/
+node_modules/
 
 # Dotenv file
 .env
+
+lib/
+broadcast/
+.vscode/
+yarn.lock
